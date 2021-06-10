@@ -37,4 +37,4 @@
 ##  🤝🏻 &nbsp;Fique a vontade para entrar em contato!😁
 
 <p align="center">
-<a href=https://www.linkedin.com/in/lucas-escaler-44921a213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6KleJblGSH2ktMEQzY%2FKPw%3D%3D
+<a href"https://www.linkedin.com/in/lucas-escaler-44921a213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6KleJblGSH2ktMEQzY%2FKPw%3D%3D><img src="https://img.shields.io/badge/-Lucas%20Escaler-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
