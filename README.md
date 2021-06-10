@@ -34,7 +34,7 @@
 </p>
 
 
-##  🤝🏻 &nbsp;Entre em contato comigo!
+##  🤝🏻 &nbsp;Fique a vontade para entrar em contato!😁
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-roberto-7738411a2/"><img src="https://img.shields.io/badge/-Vinícius%20França-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
