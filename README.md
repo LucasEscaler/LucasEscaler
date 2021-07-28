@@ -5,7 +5,7 @@
 ### 💻 &nbsp;Sobre Mim 
 
 - 🤔 &nbsp; Iniciando minha trajetória no TI
-- 🎓 &nbsp; Cursando o Bootcamp Generation Brasil.
+- 🎓 &nbsp; Concluído o Bootcamp Generation Brasil.
 - 😃 &nbsp; Procurando uma oportunidade para crescer na área.
 
 
